@@ -4,3 +4,12 @@ A- El color de fondo del testing es blue.
 B- El color de fondo del testing es yellow.
 C- El color de fondo del testing no muestra color por conflicto en el merge.
 D- El favicon que quedó es de Beta.
+
+E- BETA y GAMMA tuvieron problemas para hacer el push.
+F- Conflicto de archivos, ya que el respotorio local de beta y gamma no estaba actualizado a la ultima version modificada por alfa.
+G- Una posible solucion es que beta y gamma esperen a su antecesor y luego hagan git pull antes de actualizar el archivo con sus datos.
+Otra posible solucione es abortar el merge automatico (si se intenta actualizar los cambios hechos antes del pull) y hacer un git pull 
+H- Si cada uno utiliza el push -f el repositorio queda actualizado forzadamente con la ultima version sin incorporar los cambios hechos por 
+los demas integrantes previamente.
+I- Para que el index.html tenga todos los datos, los cambios se deberian realizar en orden,
+cada integrante actualizando su repositorio local en el medio, y por ultimo hacer un merge entre las ramas testing y desarrollo.
