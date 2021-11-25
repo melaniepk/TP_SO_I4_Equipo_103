@@ -1,1 +1,6 @@
 Lopez Podesta Macarena, Paredes Kaleniuk Melanie, Pipliza Nadia
+
+A- El color de fondo del testing es blue.
+B- El color de fondo del testing es yellow.
+C- El color de fondo del testing no muestra color por conflicto en el merge.
+D- El favicon que quedó es de Beta.
